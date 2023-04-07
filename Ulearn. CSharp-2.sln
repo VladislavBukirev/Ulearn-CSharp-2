@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 2. Yield return", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 3. Листы и словари", "Тема 3. Листы и словари\Тема 3. Листы и словари.csproj", "{7E9D4F34-3045-4159-A7C0-1EBFD7651F37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 4. Делегаты", "Тема 4. Делегаты\Тема 4. Делегаты.csproj", "{C2A1E336-E7C4-4EF4-B109-2A9319E1BA3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7E9D4F34-3045-4159-A7C0-1EBFD7651F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E9D4F34-3045-4159-A7C0-1EBFD7651F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E9D4F34-3045-4159-A7C0-1EBFD7651F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A1E336-E7C4-4EF4-B109-2A9319E1BA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A1E336-E7C4-4EF4-B109-2A9319E1BA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A1E336-E7C4-4EF4-B109-2A9319E1BA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A1E336-E7C4-4EF4-B109-2A9319E1BA3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
