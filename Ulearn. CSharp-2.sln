@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 6. LINQ", "Тем�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 7. Графы и обходы", "Тема 7. Графы и обходы\Тема 7. Графы и обходы.csproj", "{384496E8-BACA-4A73-9E45-3C9E6549B715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 8. Жадные алгоритмы", "Тема 8. Жадные алгоритмы\Тема 8. Жадные алгоритмы.csproj", "{014F7E46-9417-4F53-92C0-9BB165240E1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{384496E8-BACA-4A73-9E45-3C9E6549B715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{384496E8-BACA-4A73-9E45-3C9E6549B715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{384496E8-BACA-4A73-9E45-3C9E6549B715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
