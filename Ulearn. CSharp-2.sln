@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 7. Графы и �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 8. Жадные алгоритмы", "Тема 8. Жадные алгоритмы\Тема 8. Жадные алгоритмы.csproj", "{014F7E46-9417-4F53-92C0-9BB165240E1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 9. Многопоточное программирование", "Тема 9. Многопоточное программирование\Тема 9. Многопоточное программирование.csproj", "{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{014F7E46-9417-4F53-92C0-9BB165240E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
