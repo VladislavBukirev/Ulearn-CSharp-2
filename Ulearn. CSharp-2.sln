@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 8. Жадные а
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 9. Многопоточное программирование", "Тема 9. Многопоточное программирование\Тема 9. Многопоточное программирование.csproj", "{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 10. Динамическое программирование", "Тема 10. Динамическое программирование\Тема 10. Динамическое программирование.csproj", "{BB34E890-EA47-4969-B631-292A67F6B7F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A5275FB-39BD-4586-8A9B-976A1C6F2BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
