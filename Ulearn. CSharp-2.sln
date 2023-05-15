@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 9. Многопо�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 10. Динамическое программирование", "Тема 10. Динамическое программирование\Тема 10. Динамическое программирование.csproj", "{BB34E890-EA47-4969-B631-292A67F6B7F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 11. Структуры данных", "Тема 11. Структуры данных\Тема 11. Структуры данных.csproj", "{3DDEB985-7E0E-4750-926D-800D43ECB821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB34E890-EA47-4969-B631-292A67F6B7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDEB985-7E0E-4750-926D-800D43ECB821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDEB985-7E0E-4750-926D-800D43ECB821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDEB985-7E0E-4750-926D-800D43ECB821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDEB985-7E0E-4750-926D-800D43ECB821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
